@@ -3,10 +3,10 @@
     "blogTitle": "安兹·乌尔·恭",
     "blogDescribe": "欢迎来到至高无上的至尊的个人博客。",
     "htmlTitle": "漆黑的莫莫的博客",
-    "fontColor": "#337ab7",
+    "fontColor": "#361942",
     "useBackgroundImage": false,
-    "backgroundColorLeft": "#2690F9",
-    "backgroundColorRight": "#FC2D2D",
+    "backgroundColorLeft": "#333333",
+    "backgroundColorRight": "#969896",
     "audioUrl": "https://music.163.com/outchain/player?",
     "mini": false,
     "webSites":[
