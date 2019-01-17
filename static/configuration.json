@@ -1,15 +1,1 @@
-{
-    "githubUsername": "fan1248364788",
-    "blogTitle": "安兹·乌尔·恭",
-    "blogDescribe": "欢迎来到安兹sama的个人博客。",
-    "htmlTitle": "漆黑的莫莫的博客",
-    "fontColor": "#393333",
-    "useBackgroundImage":false,
-    "backgroundColorLeft":"#333333",
-    "backgroundColorRight":"#6c6c6c",
-    "audioUrl":"http://sc1.111ttt.cn:8282/2018/1/03m/13/396131232171.m4a?tflag=1519095601&pin=6cd414115fdb9a950d827487b16b5f97#.mp3",
-    "mini": false,
-    "webSites":[
-        {"name":"v2ex" , "url":"https://www.v2ex.com/member/laziji"}
-    ]
-}
+{"githubUsername":"fan1248364788","blogTitle":"安兹·乌尔·恭","blogDescribe":"欢迎来到安兹sama的个人博客。","htmlTitle":"漆黑的莫莫的博客","fontColor":"#393333","useBackgroundImage":true,"backgroundColorLeft":"#333333","backgroundColorRight":"#6c6c6c","audioUrl":"http://sc1.111ttt.cn:8282/2018/1/03m/13/396131232171.m4a?tflag=1519095601&pin=6cd414115fdb9a950d827487b16b5f97#.mp3","mini":false,"webSites":[{"name":"v2ex","url":"https://www.v2ex.com/member/laziji"}],"audioAutoPlay":true}
